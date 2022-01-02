@@ -185,6 +185,11 @@ img{
         display: none;
     }
 
+
+    ul{
+        list-style: none;
+    }
+
     .content2 >h4, .content3 > h4, .content4 > h4{
         background-color: gray;
         color: white;
