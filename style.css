@@ -22,6 +22,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f4f4;   
     justify-content: center;
+    box-shadow: 10px 10px 60px black;
+    
 }
 
 .main-container1{
@@ -175,6 +177,7 @@ img{
 
     body{
         flex-flow: column-reverse;
+        box-shadow: none;
     }
 
     img{
